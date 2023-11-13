@@ -1,1 +1,1 @@
-This code aims to reproduce the results of lbl (https://github.com/njcuk9999/lbl) but by fitting all the Bouchy's equation parameter at the same time 
+This code is a hands on of lbl (https://github.com/njcuk9999/lbl) for the users to better understand how lbl works and whats insinde its algorithm 
